@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg)
+![MasterHead](https://img.freepik.com/premium-photo/website-development-banner_974729-161257.jpg?w=826)
 <h1 align="center">Hi 👋, I'm Muhammad Shakeel</h1>
 <h3 align="center">A passionate MERN developer from Pakistan</h3>
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif" 
